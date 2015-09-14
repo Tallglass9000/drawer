@@ -1,5 +1,5 @@
 #Drawer Node.js v1.0.0 Documentation
-This module contains utilities for handling and organizing files by file extensions.
+This module is simple http-server framework which contains utilities for handling and organizing files by file extensions.
 Using drawer, files can be saved and load by file-name and list files up very simply.
 
 ## List of Contents
